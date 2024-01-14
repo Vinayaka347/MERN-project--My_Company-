@@ -1,0 +1,28 @@
+.addemployee {
+  text-align: center;
+  background: linear-gradient(
+    rgb(204, 204, 244),
+    rgb(131, 131, 247),
+    rgb(72, 72, 245)
+  );
+  height: 80vh;
+}
+
+.addemployee .grid-container .grid-row {
+  padding: 5px;
+  margin: 5px;
+}
+
+.grid-row img {
+  height: 25rem;
+  border-radius: 12rem;
+}
+
+.grid-row #sub-btn {
+  padding: 5px;
+  margin-top: 5px;
+  background-color: lightblue;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+}

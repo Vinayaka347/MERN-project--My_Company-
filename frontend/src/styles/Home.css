@@ -1,0 +1,10 @@
+.home {
+  background-image: url("../images/background1.jpg");
+  height: 80vh;
+  background-size: cover;
+}
+
+.home .home-content {
+  text-align: center;
+  padding: 7rem;
+}

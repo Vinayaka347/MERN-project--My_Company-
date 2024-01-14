@@ -1,0 +1,38 @@
+.viewDiv {
+  background: linear-gradient(
+    rgb(217, 217, 247),
+    rgb(84, 84, 245),
+    rgb(24, 24, 250)
+  );
+  height: 80vh;
+  padding: 10px;
+}
+thead,
+th,
+tr,
+td {
+  border: 1px solid;
+  text-align: center;
+}
+
+.table {
+  background-color: white;
+  width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+button {
+  padding: 10px;
+  margin: 3px;
+}
+
+#delete {
+  background-color: red;
+  color: white;
+  border: none;
+}
+
+#edit {
+  background-color: darkgreen;
+  color: white;
+}
